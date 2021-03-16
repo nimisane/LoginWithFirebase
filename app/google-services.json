@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794543884623",
+    "project_id": "loginwithfirebase-f29bc",
+    "storage_bucket": "loginwithfirebase-f29bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794543884623:android:176b851d9c4b89fec35d3a",
+        "android_client_info": {
+          "package_name": "com.nimish.loginwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794543884623-u055i5fsku302r1fi1fkvvdaucke6sfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv7Sf399tXzGLxRu4ZwMBfKX7x9SWXEB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794543884623-u055i5fsku302r1fi1fkvvdaucke6sfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
